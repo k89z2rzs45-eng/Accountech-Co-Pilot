@@ -1,0 +1,17 @@
+{
+  "name": "AccounTech Co-Pilot",
+  "short_name": "AccounTech",
+  "description": "AI-Powered Financial Intelligence, Accounting, Invoicing, Payroll & Analytics Suite",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
